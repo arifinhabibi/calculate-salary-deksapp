@@ -1,0 +1,16 @@
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\bin\Debug\net8.0-windows\salary-employee.exe
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\bin\Debug\net8.0-windows\salary-employee.deps.json
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\bin\Debug\net8.0-windows\salary-employee.runtimeconfig.json
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\bin\Debug\net8.0-windows\salary-employee.dll
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\bin\Debug\net8.0-windows\salary-employee.pdb
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\salary_employee.Form1.resources
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\salary-employee.vbproj.GenerateResource.cache
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\salary-employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\salary-employee.AssemblyInfoInputs.cache
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\salary-employee.AssemblyInfo.vb
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\salary-employee.vbproj.CoreCompileInputs.cache
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\salary-employee.dll
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\refint\salary-employee.dll
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\salary-employee.pdb
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\salary-employee.genruntimeconfig.cache
+C:\zwrapp-user\cyber-asia\semester-satu\pemprograman-visual\UTS\salary-employee\obj\Debug\net8.0-windows\ref\salary-employee.dll
